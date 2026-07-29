@@ -107,7 +107,7 @@ Business opportunities
 Actionable recommendations
 ▶️ How to Run
 Clone the repository
-git clone https://github.com/your-username/data-analytics-project.git
+git clone https://github.com/roshanranawork/Customer-_behaviour_analysis
 Navigate to the project
 cd data-analytics-project
 Install required libraries
