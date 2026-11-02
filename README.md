@@ -147,6 +147,3 @@ Roshan Rana
 
 LinkedIn: https://www.linkedin.com/in/roshan-rana-/
 GitHub: https://github.com/roshanranawork
-📄 License
-
-This project is intended for learning, portfolio, and recruitment purposes. Feel free to use or adapt it with proper attribution.
